@@ -6,3 +6,6 @@ build
 /gradle/wrapper/
 /gradlew.bat
 /gradlew
+
+#ignore intellij
+.idea

@@ -7,4 +7,4 @@
  * in the user manual at https://docs.gradle.org/6.5.1/userguide/multi_project_builds.html
  */
 
-rootProject.name = "telegram-java-filter-chain"
+rootProject.name = "telegram-kotlin-filter-chain"
